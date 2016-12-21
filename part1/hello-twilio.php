@@ -4,5 +4,5 @@
 ?>
 
 <Response>
-    <Say>Hello Dad. Congratulations on solving the first puzzle. Please go to keck home dot com for the next part of the challenge. Good luck!</Say>
+    <Say>Hello Dad. Congratulations on solving the first puzzle. Please go to part one dot robert john keck dot com for the next part of the challenge. Good luck!</Say>
 </Response>
