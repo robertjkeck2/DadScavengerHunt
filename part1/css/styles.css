@@ -1,0 +1,12 @@
+html,body {
+    background-color: snow;
+    width: 100%;
+    color: green;
+    text-align: center;
+    vertical-align: middle;
+    top: 100ps;
+    font-size: 20px;
+}
+ img {
+    border-radius: 10px;
+}
